@@ -2,9 +2,9 @@
 
 ## Section 0: Candidate Details
 
-- **Full Name:** Vivek  
-- **Email Address:** (your email)  
-- **College / Company Name:** (your college name)  
+- **Full Name:** Vivek Kumar Agrahari
+- **Email Address:** (kumaragraharivivek@gmail.com)  
+- **College / Company Name:** (Vision Institute Of Technology)  
 - **GitHub Profile:** https://github.com/Vivek-II  
 - **Internship Batch / Group Name:** MERN Internship Batch
 
